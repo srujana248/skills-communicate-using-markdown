@@ -4,3 +4,6 @@
  ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] done with task list
+- [ ] This item is not complete
+- [x] This task is complete
